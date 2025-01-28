@@ -1,0 +1,15 @@
+body{
+    max-width: 700px;
+    margin: auto;
+    background-color: darkblue;
+}
+.kkk{
+    color: beige;
+    text-align: justify;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 30%;
+    margin-left: 25%;
+    margin-bottom: 50%;
+    border: 2px solid beige; 
+}
